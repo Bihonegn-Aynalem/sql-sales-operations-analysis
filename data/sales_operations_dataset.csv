@@ -1,0 +1,61 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Returned,Sales_Rep
+ORD-0001,2026-03-06,2026-03-08,CUST-004,South,Furniture,Office Chair,1,145.0,0.05,137.75,94.47,43.28,No,A. Johnson
+ORD-0002,2026-05-12,2026-05-17,CUST-018,North,Office Supplies,Printer Paper,4,8.5,0,34.0,24.3,9.7,No,M. Lee
+ORD-0003,2026-03-15,2026-03-22,CUST-006,North,Technology,Wireless Mouse,8,24.0,0.15,163.2,102.53,60.67,No,R. Garcia
+ORD-0004,2026-04-10,2026-04-11,CUST-012,East,Office Supplies,Ink Cartridge,2,32.0,0,64.0,47.08,16.92,No,S. Patel
+ORD-0005,2026-05-24,2026-05-27,CUST-019,East,Furniture,Office Chair,7,145.0,0,1015.0,722.73,292.27,No,M. Lee
+ORD-0006,2026-03-03,2026-03-10,CUST-013,North,Furniture,Office Chair,5,145.0,0,725.0,474.36,250.64,No,S. Patel
+ORD-0007,2026-03-12,2026-03-18,CUST-020,North,Office Supplies,Ink Cartridge,6,32.0,0,192.0,129.19,62.81,No,M. Lee
+ORD-0008,2026-06-15,2026-06-21,CUST-011,South,Office Supplies,Ink Cartridge,7,32.0,0.05,212.8,128.25,84.55,No,A. Johnson
+ORD-0009,2026-02-26,2026-03-03,CUST-007,East,Technology,Keyboard,5,42.0,0,210.0,134.61,75.39,No,R. Garcia
+ORD-0010,2026-05-26,2026-05-31,CUST-019,East,Office Supplies,Ink Cartridge,3,32.0,0,96.0,72.62,23.38,No,R. Garcia
+ORD-0011,2026-05-09,2026-05-10,CUST-004,North,Technology,Wireless Mouse,3,24.0,0.15,61.2,42.49,18.71,No,M. Lee
+ORD-0012,2026-06-04,2026-06-08,CUST-018,East,Furniture,Office Chair,7,145.0,0.1,913.5,645.36,268.14,No,A. Johnson
+ORD-0013,2026-01-31,2026-02-03,CUST-006,West,Furniture,Bookshelf,5,110.0,0.05,522.5,287.77,234.73,No,R. Garcia
+ORD-0014,2026-06-15,2026-06-20,CUST-005,South,Furniture,Office Chair,2,145.0,0.05,275.5,199.84,75.66,No,S. Patel
+ORD-0015,2026-01-07,2026-01-08,CUST-010,East,Furniture,Office Chair,6,145.0,0.1,783.0,441.08,67.87,Yes,M. Lee
+ORD-0016,2026-05-19,2026-05-26,CUST-005,South,Office Supplies,Printer Paper,8,8.5,0,68.0,52.21,15.79,No,R. Garcia
+ORD-0017,2026-05-21,2026-05-28,CUST-010,South,Technology,USB-C Hub,7,55.0,0,385.0,299.87,85.13,No,R. Garcia
+ORD-0018,2026-03-07,2026-03-09,CUST-011,North,Technology,USB-C Hub,8,55.0,0,440.0,301.54,138.46,No,A. Johnson
+ORD-0019,2026-06-13,2026-06-14,CUST-003,South,Furniture,Office Chair,1,145.0,0,145.0,108.42,36.58,No,A. Johnson
+ORD-0020,2026-02-26,2026-03-03,CUST-019,South,Furniture,Office Chair,5,145.0,0.1,652.5,395.34,257.16,No,R. Garcia
+ORD-0021,2026-06-20,2026-06-24,CUST-014,East,Technology,Wireless Mouse,2,24.0,0,48.0,31.56,16.44,No,R. Garcia
+ORD-0022,2026-04-16,2026-04-22,CUST-004,East,Furniture,Bookshelf,2,110.0,0,220.0,130.69,89.31,No,M. Lee
+ORD-0023,2026-03-15,2026-03-19,CUST-003,South,Technology,Wireless Mouse,7,24.0,0,168.0,123.62,44.38,No,R. Garcia
+ORD-0024,2026-03-04,2026-03-06,CUST-016,West,Office Supplies,Printer Paper,1,8.5,0,8.5,5.09,3.41,No,R. Garcia
+ORD-0025,2026-04-12,2026-04-15,CUST-010,West,Office Supplies,Printer Paper,7,8.5,0,59.5,42.26,17.24,No,R. Garcia
+ORD-0026,2026-02-20,2026-02-23,CUST-002,South,Furniture,Bookshelf,8,110.0,0,880.0,635.39,244.61,No,A. Johnson
+ORD-0027,2026-05-18,2026-05-20,CUST-017,North,Office Supplies,Desk Organizer,8,18.0,0.15,122.4,91.29,31.11,No,A. Johnson
+ORD-0028,2026-02-02,2026-02-07,CUST-019,South,Furniture,Office Chair,4,145.0,0.1,522.0,361.46,160.54,No,A. Johnson
+ORD-0029,2026-02-24,2026-03-02,CUST-008,East,Furniture,Bookshelf,6,110.0,0.05,627.0,401.93,225.07,No,S. Patel
+ORD-0030,2026-04-30,2026-05-05,CUST-003,North,Technology,Keyboard,2,42.0,0,84.0,55.97,28.03,No,M. Lee
+ORD-0031,2026-03-16,2026-03-18,CUST-018,West,Technology,Wireless Mouse,4,24.0,0.05,91.2,62.99,28.21,No,S. Patel
+ORD-0032,2026-02-06,2026-02-09,CUST-004,North,Office Supplies,Desk Organizer,5,18.0,0,90.0,55.14,3.36,Yes,M. Lee
+ORD-0033,2026-06-14,2026-06-21,CUST-017,East,Office Supplies,Desk Organizer,6,18.0,0,108.0,65.64,42.36,No,R. Garcia
+ORD-0034,2026-01-14,2026-01-15,CUST-005,East,Office Supplies,Desk Organizer,7,18.0,0.05,119.7,70.28,49.42,No,S. Patel
+ORD-0035,2026-01-05,2026-01-06,CUST-005,North,Furniture,Bookshelf,7,110.0,0.15,654.5,485.61,-60.19,Yes,A. Johnson
+ORD-0036,2026-01-13,2026-01-16,CUST-002,East,Furniture,Office Chair,7,145.0,0,1015.0,607.29,407.71,No,S. Patel
+ORD-0037,2026-04-17,2026-04-22,CUST-008,South,Furniture,Office Chair,6,145.0,0.15,739.5,572.76,166.74,No,M. Lee
+ORD-0038,2026-04-18,2026-04-25,CUST-009,South,Technology,Wireless Mouse,3,24.0,0.05,68.4,50.01,18.39,No,M. Lee
+ORD-0039,2026-02-23,2026-03-02,CUST-012,West,Technology,Wireless Mouse,8,24.0,0,192.0,141.83,50.17,No,S. Patel
+ORD-0040,2026-03-28,2026-03-31,CUST-009,North,Office Supplies,Printer Paper,4,8.5,0.1,30.6,21.34,9.26,No,S. Patel
+ORD-0041,2026-02-01,2026-02-04,CUST-019,South,Furniture,Bookshelf,6,110.0,0,660.0,368.81,60.19,Yes,S. Patel
+ORD-0042,2026-06-07,2026-06-12,CUST-013,North,Technology,Keyboard,6,42.0,0.1,226.8,138.03,88.77,No,M. Lee
+ORD-0043,2026-04-23,2026-04-24,CUST-020,East,Office Supplies,Desk Organizer,4,18.0,0.05,68.4,48.06,20.34,No,S. Patel
+ORD-0044,2026-03-27,2026-03-31,CUST-018,East,Furniture,Standing Desk,5,320.0,0.1,1440.0,855.54,584.46,No,M. Lee
+ORD-0045,2026-05-28,2026-05-31,CUST-018,West,Furniture,Bookshelf,3,110.0,0.15,280.5,173.88,106.62,No,A. Johnson
+ORD-0046,2026-04-26,2026-04-30,CUST-017,South,Technology,USB-C Hub,6,55.0,0.1,297.0,217.57,79.43,No,R. Garcia
+ORD-0047,2026-06-21,2026-06-27,CUST-003,East,Furniture,Office Chair,5,145.0,0.15,616.25,434.3,181.95,No,M. Lee
+ORD-0048,2026-03-06,2026-03-10,CUST-015,North,Office Supplies,Printer Paper,1,8.5,0,8.5,6.41,-0.88,Yes,R. Garcia
+ORD-0049,2026-04-15,2026-04-17,CUST-001,South,Office Supplies,Desk Organizer,7,18.0,0.1,113.4,82.67,30.73,No,A. Johnson
+ORD-0050,2026-05-25,2026-05-27,CUST-015,North,Office Supplies,Desk Organizer,8,18.0,0,144.0,105.74,38.26,No,M. Lee
+ORD-0051,2026-06-08,2026-06-15,CUST-018,West,Furniture,Bookshelf,6,110.0,0.1,594.0,449.28,144.72,No,R. Garcia
+ORD-0052,2026-05-16,2026-05-20,CUST-009,South,Technology,Keyboard,4,42.0,0.05,159.6,90.62,68.98,No,R. Garcia
+ORD-0053,2026-05-21,2026-05-22,CUST-005,South,Office Supplies,Ink Cartridge,6,32.0,0.05,182.4,116.39,66.01,No,M. Lee
+ORD-0054,2026-04-17,2026-04-20,CUST-014,West,Furniture,Office Chair,2,145.0,0.1,261.0,155.97,105.03,No,A. Johnson
+ORD-0055,2026-04-10,2026-04-14,CUST-012,North,Technology,USB-C Hub,1,55.0,0.15,46.75,33.81,12.94,No,S. Patel
+ORD-0056,2026-02-28,2026-03-03,CUST-016,West,Furniture,Bookshelf,4,110.0,0.1,396.0,253.22,142.78,No,A. Johnson
+ORD-0057,2026-06-11,2026-06-16,CUST-013,North,Furniture,Office Chair,8,145.0,0,1160.0,660.4,499.6,No,A. Johnson
+ORD-0058,2026-03-10,2026-03-14,CUST-007,East,Office Supplies,Ink Cartridge,3,32.0,0,96.0,60.02,35.98,No,R. Garcia
+ORD-0059,2026-05-03,2026-05-04,CUST-012,North,Technology,Keyboard,5,42.0,0,210.0,146.9,63.1,No,M. Lee
+ORD-0060,2026-06-11,2026-06-13,CUST-005,South,Office Supplies,Printer Paper,4,8.5,0,34.0,23.94,-1.84,Yes,R. Garcia
