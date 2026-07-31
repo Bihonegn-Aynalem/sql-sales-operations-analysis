@@ -96,6 +96,6 @@ Products are ranked within each category using the SQL `RANK()` window function.
 This project demonstrates practical SQL skills for analyzing sales and operations data. The analysis uses aggregate functions, common table expressions (CTEs), and window functions to answer business questions and generate actionable insights.
 
 ## Author
-Bihonegn Aynalem
+**Bihonegn Aynalem**
 M.S. Analytics Candidate
 Georgia Institute of Technology
