@@ -63,26 +63,21 @@ data/
 sql/
 images/
 README.md
-
+---
 ## Regional Performance
 
 ![Regional Performance](images/regional_performance.png)
 
 This query summarizes total sales and profit by region to identify the highest-performing regions.
 
----
-
 ## Top Products
 ![Top Products](images/top_products.png)
 This analysis identifies the products generating the highest sales revenue.
 
----
 
 ## Monthly Sales Trend
 ![Monthly Sales Trend](images/monthly_sales.png)
 This query analyzes monthly sales performance to identify trends over time.
-
----
 
 ## Product Ranking
 ![Product Ranking](images/product_ranking.png)
@@ -95,8 +90,6 @@ Products are ranked within each category using the SQL `RANK()` window function.
 - USB-C Hub ranked first in the Technology category.
 - Ink Cartridge ranked first in the Office Supplies category.
 - SQL aggregation and window functions provided insights into sales performance and product rankings.
-
----
 
 ## Conclusion
 
