@@ -65,7 +65,9 @@ images/
 README.md
 
 ## Regional Performance
+
 ![Regional Performance](images/regional_performance.png)
+
 This query summarizes total sales and profit by region to identify the highest-performing regions.
 
 ---
