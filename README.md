@@ -63,7 +63,7 @@ data/
 sql/
 images/
 README.md
----
+```
 ## Regional Performance
 
 ![Regional Performance](images/regional_performance.png)
